@@ -80,6 +80,40 @@ li {
     background-attachment: fixed;
 } */
 
+
+.call {
+    width: 30px;
+    height: 30px;
+    position: fixed;
+    top: 0;
+    z-index: 101;
+}
+
+.buttonPhone {
+    border-radius: 50%;
+    background-color: white;
+    width: 30px;
+    height: 30px;
+    margin-left: 1171px;
+    margin-top: 535px;
+}
+
+
+.butPhone-fixed{
+    border-radius: 50%;
+    background-color: white;
+    width: 30px;
+    height: 30px;
+    outline: none;
+    border-top-color: black;
+    border-left-color: black;
+}
+
+.butPhone-fixed:hover{
+    background-color: #C0C0C0;
+}
+
+
 .main-text {
     padding-top: 60px;
     text-align: center;
